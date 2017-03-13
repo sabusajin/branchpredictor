@@ -2,6 +2,7 @@
 
 Homework 2
 Instructions:
+
  Please type your solutions into a document and convert it into a PDF file. Your solution document should contain your name, student ID, the course name, and homework number. Please submit your solution PDF via Canvas.
  Make reasonable assumptions where necessary and clearly state them!
  You may discuss concepts with your classmates. This fosters group learning and improves the class’ progress as a whole. However, make sure to submit your own independent and individual solutions.
